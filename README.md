@@ -24,8 +24,11 @@ Input your glucose levels and other relevant information.
 The machine learning model will predict the insulin dosage for you.
 
 # Built With
+
 Django - The web framework used.
+
 Scikit-learn - Machine learning library.
+
 Matlab - Used to generate the insulin-dependent patients model using the Bergman minimal model.
 
 # Authors
